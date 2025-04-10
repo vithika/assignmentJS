@@ -39,3 +39,6 @@ npm test
 2. Customer not eligible receives no rewards
 3. Technical failures return no rewards silently
 4. Invalid account number returns an error flag
+
+   <img width="540" alt="Screenshot 2025-04-10 at 9 54 54 PM" src="https://github.com/user-attachments/assets/fe3de3b7-23fc-4a74-ac98-4e4d3ee31fca" />
+
