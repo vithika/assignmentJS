@@ -1,0 +1,11 @@
+{
+  "name": "cognizant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redeemService.js",
+  "scripts": {
+    "test": "node redeemService-test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
