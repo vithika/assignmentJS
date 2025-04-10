@@ -9,7 +9,7 @@ This project implements a `rewardsService` in Node.js that determines the availa
 Make sure you have Node.js 18+ installed.
 
 ```bash
-cd cognizant
+cd assignmentJS
 npm test
 ```
 
