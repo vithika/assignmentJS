@@ -1,11 +1,11 @@
 {
-  "name": "cognizant",
+  "name": "assignmentJS",
   "version": "1.0.0",
-  "description": "",
+  "description": "JS assignment",
   "main": "redeemService.js",
   "scripts": {
     "test": "node redeemService-test.js"
   },
-  "author": "",
+  "author": "vithika",
   "license": "ISC"
 }
